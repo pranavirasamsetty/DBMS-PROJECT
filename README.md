@@ -3,8 +3,6 @@
 
 Name:Pranavi Rasamsetty <br>
 SRN: PES1UG21CS478 <br>
-Name:Pratham P Bhat <br>
-SRN: PES1UG21CS442 <br>
 
 ## Environment Setup
 Frontend: streamlit <br>
